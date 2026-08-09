@@ -1,1 +1,1 @@
-# odin-recipes
+This is for reflection. Indicates what I have done/will do w/ the premise of this project.
