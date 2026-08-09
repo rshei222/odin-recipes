@@ -1,1 +1,1 @@
-This is for reflection. Indicates what I have done/will do w/ the premise of this project.
+Through this project, I got a good hold on making and testing webpages in a website using fundamental html concepts. I went through making the boilerplate for each webpage, used internal links to connect them, provided images, descriptions, and used unordered and ordered lists in order to explain and put context for all recipes in order to make a proper recipe website to practice what I've learned with html.
